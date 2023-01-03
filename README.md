@@ -7,5 +7,5 @@
 #5 Tipo de dados (Data types)<br>
 #6 Formatação de saída (Format specifier)<br>
 #7 Constantes (Constants)<br>
-
-
+#8 Operadores aritimeticos (Arithmetic operators)<br>
+#9 Operadores de atribuição extendidos (Augmented assignment operators)<br>
