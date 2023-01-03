@@ -5,4 +5,7 @@
 #3 Escape de caracteres (Escape sequence)<br>
 #4 Variáveis (Variables)<br>
 #5 Tipo de dados (Data types)<br>
+#6 Formatação de saída (Format specifier)<br>
+#7 Constantes (Constants)<br>
+
 
