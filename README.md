@@ -4,5 +4,5 @@
 #2 Comentários (Comments)<br>
 #3 Escape de caracteres (Escape sequence)<br>
 #4 Variáveis (Variables)<br>
-#5 Tipo de dados (data types)<br>
+#5 Tipo de dados (Data types)<br>
 
