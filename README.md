@@ -1,4 +1,4 @@
-# Aprendendo C, para iniciates
+# Aprendendo C, para iniciantes
 
 #1 Olá mundo! (Hello World!)<br>
 #2 Comentários (Comments)<br>
