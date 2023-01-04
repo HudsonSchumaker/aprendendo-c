@@ -9,3 +9,4 @@
 #7 Constantes (Constants)<br>
 #8 Operadores aritimeticos (Arithmetic operators)<br>
 #9 Operadores de atribuição extendidos (Augmented assignment operators)<br>
+#10 Funções matemáticas (Math functions)<br>
