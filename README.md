@@ -14,5 +14,6 @@
 #12 Condicionais com if (if statments)<br>
 #13 Condicioanis com switch (switch statments)<br>
 #14 Operador logico && (logical operator AND &&)<br>
-#15 Operador logico || (logical operator OR ||)
+#15 Operador logico || (logical operator OR ||)<br>
+#16 Operador logico ! (logical operator NOT !)
 
