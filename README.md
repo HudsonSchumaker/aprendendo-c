@@ -11,5 +11,5 @@
 #9 Operadores de atribuição extendidos (Augmented assignment operators)<br>
 #10 Funções matemáticas (Math functions)<br>
 #11 Entrada do usuário (User input)<br>
-#12 Condicionais com if (if statments)
+#12 Condicionais com if (if statments)<br>
 #13 Condicioanis com switch (switch statments)
