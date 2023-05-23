@@ -12,3 +12,4 @@
 #10 Funções matemáticas (Math functions)<br>
 #11 Entrada do usuário (User input)<br>
 #12 Condicionais com if (if statments)
+#13 Condicioanis com switch (switch statments)
