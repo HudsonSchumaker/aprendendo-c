@@ -1,5 +1,5 @@
 /*
-  aprendendo c
+  aprendendo-c
   Variáveis (variables)
 */
 
