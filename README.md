@@ -15,5 +15,6 @@
 #13 Condicioanis com switch (switch statments)<br>
 #14 Operador logico && (logical operator AND &&)<br>
 #15 Operador logico || (logical operator OR ||)<br>
-#16 Operador logico ! (logical operator NOT !)
+#16 Operador logico ! (logical operator NOT !) <br>
+#17 Funções (functions)
 
