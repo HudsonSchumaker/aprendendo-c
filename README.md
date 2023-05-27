@@ -2,7 +2,7 @@
 
 [#1 Olá mundo! (Hello World!)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/hello_world/main.c)<br>
 [#2 Comentários (Comments)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/comments/main.c)<br>
-#3 Escape de caracteres (Escape sequence)<br>
+[#3 Escape de caracteres (Escape sequence)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/escape_sequence/main.c)<br>
 #4 Variáveis (Variables)<br>
 #5 Tipo de dados (Data types)<br>
 #6 Formatação de saída (Format specifier)<br>
