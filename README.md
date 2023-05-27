@@ -16,5 +16,6 @@
 #14 Operador lógico && (logical operator AND &&)<br>
 #15 Operador lógico || (logical operator OR ||)<br>
 #16 Operador lógico ! (logical operator NOT !) <br>
-#17 Funções (functions)
+#17 Funções (functions) <br>
+#18 Return (retorno)
 
