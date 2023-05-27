@@ -1,6 +1,6 @@
 # Aprendendo C, para iniciantes
 
-#1 Olá mundo! (Hello World!)<br>
+[#1 Olá mundo! (Hello World!)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/hello_world/main.c)<br>
 #2 Comentários (Comments)<br>
 #3 Escape de caracteres (Escape sequence)<br>
 #4 Variáveis (Variables)<br>
