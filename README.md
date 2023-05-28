@@ -7,7 +7,7 @@
 [#5 Tipo de dados (Data types)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/data_types/main.c)<br>
 [#6 Formatação de saída (Format specifier)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/format_specifier/main.c)<br>
 [#7 Constantes (Constants)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/constants/main.c)<br>
-#8 Operadores aritméticos (Arithmetic operators)<br>
+[#8 Operadores aritméticos (Arithmetic operators)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/arithmetic_operators/main.c)<br>
 #9 Operadores de atribuição extendidos (Augmented assignment operators)<br>
 #10 Funções matemáticas (Math functions)<br>
 #11 Entrada do usuário (User input)<br>
