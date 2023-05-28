@@ -4,7 +4,7 @@
 [#2 Comentários (Comments)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/comments/main.c)<br>
 [#3 Escape de caracteres (Escape sequence)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/escape_sequence/main.c)<br>
 [#4 Variáveis (Variables)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/variables/main.c)<br>
-#5 Tipo de dados (Data types)<br>
+[#5 Tipo de dados (Data types)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/data_types/main.c)<br>
 #6 Formatação de saída (Format specifier)<br>
 #7 Constantes (Constants)<br>
 #8 Operadores aritméticos (Arithmetic operators)<br>
