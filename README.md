@@ -1,4 +1,4 @@
-# Aprendendo C, para iniciantes 
+# Aprendendo C, para iniciantes
 
 [#1 Olá mundo! (Hello World!)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/hello_world/main.c)<br>
 [#2 Comentários (Comments)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/comments/main.c)<br>
