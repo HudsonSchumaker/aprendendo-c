@@ -1,3 +1,8 @@
+/*
+  aprendendo-c
+  Operadores aritméticos (Arithmetic operators)
+*/
+
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {

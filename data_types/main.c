@@ -1,6 +1,6 @@
 /*
- aprendendo-c
- tipo de dados - data type
+    aprendendo-c
+    tipo de dados - data type
 */
 
 #include <stdio.h>
