@@ -9,19 +9,18 @@
 int main(int argc, const char * argv[]) {
     
     /*
-     formatador % = define e formata o tipo de dados a ser exibido
+        formatador % = define e formata o tipo de dados a ser exibido
      
-     %c = caracter (character)
-     %s = string (array de caracteres)
-     %d = integer (inteiro)
-     %f = float
-     %lf = double
+        %c = caracter (character)
+        %s = string (array de caracteres)
+        %d = integer (inteiro)
+        %f = float
+        %lf = double
      
-     %.1 = precisao decimal
-     %1 = tamanho do numero
-     %- = alimahemto a esquerda
-     
-     */
+        %.1 = precisao decimal
+        %1 = tamanho do numero
+        %- = alimahemto a esquerda
+    */
     
     float item1 = 5.75;
     float item2 = 10.00;
