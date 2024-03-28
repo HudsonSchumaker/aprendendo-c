@@ -28,7 +28,7 @@ int main(int argc, const char * argv[]) {
     printf("Arrendondamento para cima %.2lf = %.2lf\n", 2.3, ceil(2.3));
 
     // floor() funcao para arrendondar pra baixo
-    printf("Arendondamento pra baixo %.2lf = %.2lf\n", 2.3, floor(2.3));
+    printf("Arrendondamento pra baixo %.2lf = %.2lf\n", 2.3, floor(2.3));
 
     // log() funcao para calcular logaritimo na base 10
     printf("Logaritimo de %.2lf = %.2lf\n", x, log(x));
