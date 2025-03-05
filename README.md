@@ -1,5 +1,7 @@
 # Aprendendo C, para iniciantes 
 
+Use um compilador [online](https://www.programiz.com/c-programming/online-compiler/) para facilitar o seu estudo.
+
 [#1 Olá mundo! (Hello World!)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/hello_world/main.c)<br>
 [#2 Comentários (Comments)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/comments/main.c)<br>
 [#3 Escape de caracteres (Escape sequence)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/escape_sequence/main.c)<br>
