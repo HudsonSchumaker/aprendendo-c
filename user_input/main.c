@@ -12,11 +12,11 @@ int main(int argc, const char *argv[])
         Aqui está um exemplo:
     */
 
-    int age = 0;
+    int idade = 0;
     printf("Digite sua idade: ");
-    scanf("%d", &age);
+    scanf("%d", &idade);
 
-    if (age >= 18)
+    if (idade >= 18)
     {
         printf("Você é maior de idade\n");
     }
@@ -25,12 +25,12 @@ int main(int argc, const char *argv[])
         printf("Você é menor de idade\n");
     }
 
-    printf("Sua idade é %d\n", age);
+    printf("Sua idade é %d\n", idade);
 
     printf("Qual é o seu nome? ");
-    char name[16];
-    scanf("%s", name);
-    printf("Olá, %s!\n", name);
+    char nome[16];
+    scanf("%s", nome);
+    printf("Olá, %s!\n", nome);
 
     return 0;
 }
