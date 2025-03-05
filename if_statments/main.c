@@ -5,7 +5,8 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
+int main(int argc, const char *argv[])
+{
 
     /*
         Em C, a instrução if é usada para testar uma condição.
@@ -16,23 +17,32 @@ int main(int argc, const char * argv[]) {
     int num = 10;
 
     // Instrução if simples
-    if (num > 5) {
+    if (num > 5)
+    {
         printf("Número é maior que 5\n");
     }
 
     // Instrução if-else (se-senao)
-    if (num > 20) {
+    if (num > 20)
+    {
         printf("Número é maior que 20\n");
-    } else {
+    }
+    else
+    {
         printf("Número não é maior que 20\n");
     }
 
     // Instrução if-else if-else (if aninhado)
-    if (num > 20) {
+    if (num > 20)
+    {
         printf("Número é maior que 20\n");
-    } else if (num > 10) {
+    }
+    else if (num > 10)
+    {
         printf("Número é maior que 10\n");
-    } else {
+    }
+    else
+    {
         printf("Número não é maior que 10\n");
     }
 
