@@ -14,7 +14,7 @@ Use um compilador [online](https://www.programiz.com/c-programming/online-compil
 [#10 Funções matemáticas (Math functions)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/math_functions/main.c)<br>
 [#11 Entrada do usuário (User input)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/user_input/main.c)<br>
 [#12 Condicionais com if (if statments)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/if_statments/main.c)<br>
-#13 Condicioanis com switch (switch statments)<br>
+[#13 Condicioanis com switch (switch statments)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/switch_statments/main.c)<br>
 #14 Operador lógico && (logical operator AND &&)<br>
 #15 Operador lógico || (logical operator OR ||)<br>
 #16 Operador lógico ! (logical operator NOT !) <br>
