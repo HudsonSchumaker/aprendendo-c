@@ -3,7 +3,9 @@
     tipo de dados - data type
 */
 
+// inclui no projeto a biblioteca padrao de I/O (input, output) entrada e saída
 #include <stdio.h>
+// inclui no projeto a biblioteca padrao de booleanos (true, false) 
 #include <stdbool.h>
 
 int main(int argc, const char *argv[])
@@ -36,5 +38,6 @@ int main(int argc, const char *argv[])
     printf("item 4: R$ %-8.3f", item4);
     printf("total itens : %d", totalItens);
 
+    // retorna 0 para o sistema operacional indicando que o programa foi executado com sucesso
     return 0;
 }

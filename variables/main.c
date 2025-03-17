@@ -3,8 +3,10 @@
   Variáveis (variables)
 */
 
+// Incluindo a biblioteca padrão de entrada e saída
 #include <stdio.h>
 
+// Função principal do programa
 int main(int argc, const char *argv[])
 {
 
@@ -19,8 +21,9 @@ int main(int argc, const char *argv[])
   x = 123;     // inicializacao
   int y = 321; // declaracao + inicializacao
 
-  printf("%d\n", x);
-  printf("%d\n", y);
+  printf("%d\n", x); // imprime o valor da variável x
+  printf("%d\n", y); // imprime o valor da variável y
 
+  // retorna 0 para o sistema operacional indicando que o programa foi executado com sucesso
   return 0;
 }
