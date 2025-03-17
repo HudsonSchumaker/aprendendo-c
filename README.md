@@ -20,3 +20,35 @@ Use um compilador [online](https://www.programiz.com/c-programming/online-compil
 #16 Operador lógico ! (logical operator NOT !) <br>
 #17 Funções (functions) <br>
 #18 Return (retorno)
+
+
+## Glossário
+
+### Variável
+Uma **variável** é um espaço na memória do computador usado para armazenar valores que podem mudar durante a execução do programa.
+
+---
+
+### Função
+Uma **função** é um bloco de código que realiza uma tarefa específica e pode ser reutilizado em diferentes partes do programa.
+
+---
+
+### Método
+Em linguagens orientadas a objetos, um **método** é uma função associada a um objeto ou classe.  
+Em C, que não é orientada a objetos, o conceito de método não se aplica diretamente, mas pode ser entendido como funções que operam em estruturas.
+
+---
+
+### Parâmetro
+Um **parâmetro** é uma variável usada para passar informações para uma função.
+
+---
+
+### Retorno
+O **retorno** é o valor que uma função devolve ao final de sua execução.
+
+---
+
+### Operadores
+Os **operadores** são símbolos usados para realizar operações em variáveis e valores.
