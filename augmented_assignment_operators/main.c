@@ -3,8 +3,10 @@
   Operadores de atribuição extendidos (Augmented assignment operators)
 */
 
+// inclui no projeto a biblioteca padrao de I/O (input, output) entrada e saída
 #include <stdio.h>
 
+// metódo main
 int main(int argc, const char *argv[])
 {
 
@@ -13,7 +15,7 @@ int main(int argc, const char *argv[])
       uma operação e atribuição em uma única instrução.
   */
 
-  int x = 10;
+  int x = 10; // declara a variável x do tipo inteiro e atribui o valor 10
 
   x += 5;                // equivalente a x = x + 5;
   printf("a = %d\n", x); // imprime: x = 15
@@ -30,5 +32,6 @@ int main(int argc, const char *argv[])
   x %= 5;                // equivalente a x = x % 5;
   printf("a = %d\n", x); // imprime: x = 1
 
+  // retorna 0 para o sistema operacional indicando que o programa foi executado com sucesso
   return 0;
 }
