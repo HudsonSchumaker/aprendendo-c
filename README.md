@@ -52,3 +52,11 @@ O **retorno** é o valor que uma função devolve ao final de sua execução.
 
 ### Operadores
 Os **operadores** são símbolos usados para realizar operações em variáveis e valores.
+
+---
+
+### Array
+Um **array** é uma coleção de elementos do mesmo tipo, armazenados em posições consecutivas na memória. Ele é usado para armazenar múltiplos valores em uma única variável.
+
+---
+
