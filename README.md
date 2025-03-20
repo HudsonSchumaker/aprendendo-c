@@ -19,8 +19,9 @@ Use um compilador [online](https://www.programiz.com/c-programming/online-compil
 #15 Operador lógico || (logical operator OR ||)<br>
 #16 Operador lógico ! (logical operator NOT !) <br>
 #17 Funções (functions) <br>
-#18 Return (retorno)
-
+#18 Return (retorno) <br>
+#19 Operador ternário (Ternary operator) <br>
+#20 Protótipo de Funcoes (Function Prototypes)
 
 ## Glossário
 
