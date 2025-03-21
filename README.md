@@ -16,7 +16,7 @@ Use um compilador [online](https://www.programiz.com/c-programming/online-compil
 [#12 Condicionais com if (if statments)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/if_statments/main.c)<br>
 [#13 Condicioanis com switch (switch statments)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/switch_statments/main.c)<br>
 [#14 Operador lógico && (logical operator AND &&)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/logical_operator_and/main.c)<br>
-#15 Operador lógico || (logical operator OR ||)<br>
+[#15 Operador lógico || (logical operator OR ||)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/logical_operator_or/main.c)<br>
 #16 Operador lógico ! (logical operator NOT !) <br>
 #17 Funções (functions) <br>
 #18 Return (retorno) <br>
