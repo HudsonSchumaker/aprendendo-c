@@ -1,6 +1,6 @@
 /*
   aprendendo-c
-  Condicional Se (If staments)
+  Operador AND && (Operator AND)
 */
 
 // inclui no projeto a biblioteca padrao de I/O (input, output) entrada e saída
