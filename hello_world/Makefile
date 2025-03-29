@@ -1,2 +1,2 @@
 compile:
-  gcc -o main main.c
+  gcc -o -Wall -Wextra main main.c
