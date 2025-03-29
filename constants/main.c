@@ -1,6 +1,7 @@
 /*
     aprendendo-c
     constantes - constants
+    Hudson Schumaker
  */
 
 // inclui no projeto a biblioteca padrao de I/O (input, output) entrada e saída

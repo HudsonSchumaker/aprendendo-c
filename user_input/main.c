@@ -1,6 +1,7 @@
 /*
-  aprendendo-c
-  Entrada de usuário (user input)
+    aprendendo-c
+    Entrada de usuário (user input)
+    Hudson Schumaker
 */
 
 // Incluindo a biblioteca padrão de entrada e saída

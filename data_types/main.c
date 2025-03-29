@@ -1,6 +1,7 @@
 /*
     aprendendo-c
     tipo de dados - data type
+    Hudson Schumaker
 */
 
 // inclui no projeto a biblioteca padrao de I/O (input, output) entrada e saída

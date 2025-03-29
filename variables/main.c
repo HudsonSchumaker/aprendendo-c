@@ -1,6 +1,7 @@
 /*
   aprendendo-c
   Variáveis (variables)
+  Hudson Schumaker
 */
 
 // Incluindo a biblioteca padrão de entrada e saída

@@ -1,6 +1,7 @@
 /*
-  aprendendo-c
-  Operador AND && (Operator AND)
+    aprendendo-c
+    Operador AND && (Operator AND)
+    Hudson Schumaker
 */
 
 // inclui no projeto a biblioteca padrao de I/O (input, output) entrada e saída

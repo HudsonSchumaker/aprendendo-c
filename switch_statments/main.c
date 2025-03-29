@@ -1,6 +1,7 @@
 /*
-  aprendendo-c
-  Condicional com switch (Switch staments)
+    aprendendo-c
+    Condicional com switch (Switch staments)
+    Hudson Schumaker
 */
 
 // inclui no projeto a biblioteca padrao de I/O (input, output) entrada e saída

@@ -1,6 +1,7 @@
 /*
   aprendendo-c
   Operadores aritméticos (Arithmetic operators)
+  Hudson Schumaker
 */
 
 // inclui no projeto a biblioteca padrao de I/O (input, output) entrada e saída
