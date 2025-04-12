@@ -19,9 +19,9 @@ Use um compilador [online](https://www.programiz.com/c-programming/online-compil
 [#15 Operador lógico || (logical operator OR ||)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/logical_operator_or/main.c)<br>
 [#16 Operador lógico ! (logical operator NOT !)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/logical_operator_not/main.c)<br>
 [#17 Funções (functions)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/functions/main.c) <br>
-#18 Return (retorno) <br>
-#19 Operador ternário (Ternary operator) <br>
-#20 Protótipo de Funcoes (Function Prototypes)
+[#18 Return (retorno)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/function_return/main.c) <br>
+#19 Protótipo de Funcoes (Function Prototypes) <br>
+#20 Operador ternário (Ternary operator) <br>
 
 ## Glossário
 
