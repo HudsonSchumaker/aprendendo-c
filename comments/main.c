@@ -12,7 +12,7 @@
     metodo principal
 */
 
-// metódo main
+// funcao main
 int main(int argc, const char *argv[])
 {
 

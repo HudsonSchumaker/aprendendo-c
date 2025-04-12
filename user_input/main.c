@@ -7,6 +7,7 @@
 // Incluindo a biblioteca padrão de entrada e saída
 #include <stdio.h>
 
+// funcao main
 int main(int argc, const char *argv[])
 {
     /*

@@ -9,7 +9,7 @@
 // inclui no projeto a biblioteca padrao de booleanos (true, false)
 #include <stdbool.h>
 
-// metódo main
+// funcao main
 int main(int argc, const char *argv[])
 {
 

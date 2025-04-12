@@ -7,7 +7,7 @@
 // inclui no projeto a biblioteca padrao de I/O (input, output) entrada e saída
 #include <stdio.h>
 
-// funcao principal do programa
+// funcao main
 int main(int argc, const char *argv[])
 {
 

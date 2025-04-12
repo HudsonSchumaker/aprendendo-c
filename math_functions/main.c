@@ -9,6 +9,7 @@
 // inclui no projeto a biblioteca padrao de matemática
 #include <math.h>
 
+// funcao main
 int main(int argc, const char *argv[])
 {
 
