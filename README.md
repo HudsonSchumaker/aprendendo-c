@@ -18,7 +18,7 @@ Use um compilador [online](https://www.programiz.com/c-programming/online-compil
 [#14 Operador lógico && (logical operator AND &&)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/logical_operator_and/main.c)<br>
 [#15 Operador lógico || (logical operator OR ||)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/logical_operator_or/main.c)<br>
 [#16 Operador lógico ! (logical operator NOT !)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/logical_operator_not/main.c)<br>
-#17 Funções (functions) <br>
+[#17 Funções (functions)](https://github.com/HudsonSchumaker/aprendendo-c/blob/main/functions/main.c) <br>
 #18 Return (retorno) <br>
 #19 Operador ternário (Ternary operator) <br>
 #20 Protótipo de Funcoes (Function Prototypes)
